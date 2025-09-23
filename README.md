@@ -1,5 +1,5 @@
 # MiPrimerRepo
-Repositorio de prueba en GitHub
+Repositorio de prueba en GitHub.
 Integrantes de mi equipo:
  -Juan
  -Pato
